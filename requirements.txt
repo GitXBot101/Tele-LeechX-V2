@@ -19,11 +19,11 @@ Pillow
 psutil
 psycopg2-binary
 pycountry
-pyrogram
+pyrogram==2.0.73
 python-dotenv
 pytz
 pyprog
-python-telegram-bot
+python-telegram-bot==13.15
 pybase64
 requests
 speedtest-cli
