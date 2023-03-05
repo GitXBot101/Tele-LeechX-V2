@@ -19,7 +19,7 @@ Pillow
 psutil
 psycopg2-binary
 pycountry
-pyrogram==2.0.73
+pyrogram==2.0.66
 python-dotenv
 pytz
 pyprog
